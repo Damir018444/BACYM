@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\win10\IdeaProjects\BACY_new_version\out\artifacts\BACY_new_version_jar\BACY_new_version.jar</jar>
+  <outfile>C:\Users\win10\IdeaProjects\BACY_new_version\out\artifacts\BACY_new_version_jar\app.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>high</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.6.0_22</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

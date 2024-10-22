@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BACY_new_version:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BACY_new_version_jar</output-path>
+    <root id="archive" name="BACY_new_version.jar">
+      <element id="module-output" name="BACY_new_version" />
+    </root>
+  </artifact>
+</component>
